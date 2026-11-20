@@ -12,3 +12,5 @@ fir current branch me jis file me add karna hai modify karna hai jaise master ho
 
 uper merge to master likh ke aayege kiske ander merge hoga oska name likh ke aayega.
 fir calculator pe click karo fir create to merge karo fir push karo
+
+#or github me hi file ke ander kuch change karungi fir osko original folder me save karne ke liye github desktop me changes pe click osme dikhega kya changes ki fir commit karna fir push.
