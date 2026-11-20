@@ -9,5 +9,6 @@ fir modifiy file banegi fir Commit karo
 - Commit to calculate par click karo.
 - Uske baad Push origin par click karo.
 fir current branch me jis file me add karna hai modify karna hai jaise master ho gaya osko select karo .calculator ye maine alag branch banaya iske ander master ki sab chije hai calculator me mai check kar rahi hu sahi ho raha ki nahi fir osko master branch me merge kar dungi
+
 uper merge to master likh ke aayege kiske ander merge hoga oska name likh ke aayega.
 fir calculator pe click karo fir create to merge karo fir push karo
