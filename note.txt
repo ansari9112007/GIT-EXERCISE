@@ -1,1 +1,13 @@
 isme maine branch banaya hai
+
+agar mujhe koi branch merge karna hai to 
+pahle mujhe git exercise ki jofile hai osme mujhe calculator ki file banani hai try karna hai to 
+mujhe fileme kuch changes karna hai to pahle aise hi try karungi dusri branch bana ke 
+to github desktop me branch ne new branch pe click karo fir osme file ka nameaayega jis file ko change ya new file banai ho oska name likho fir create karo
+fir modifiy file banegi fir Commit karo
+- Summary mein likho: calculate branch changes
+- Commit to calculate par click karo.
+- Uske baad Push origin par click karo.
+fir current branch me jis file me add karna hai modify karna hai jaise master ho gaya osko select karo .calculator ye maine alag branch banaya iske ander master ki sab chije hai calculator me mai check kar rahi hu sahi ho raha ki nahi fir osko master branch me merge kar dungi
+uper merge to master likh ke aayege kiske ander merge hoga oska name likh ke aayega.
+fir calculator pe click karo fir create to merge karo fir push karo
